@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+.container{
+    max-width: 26%;
+    margin-top: 5%;
+    border: 2px solid rgb(239, 239, 223);
+    background-color: rgb(238, 220, 195);
+    box-shadow: 0px 0px 15px black;
+}
+.btn-primary{
+    background-color: rgb(42, 210, 154);
+    border: 0px solid green;
+    box-shadow: 0px 0px 2px black;
+}
